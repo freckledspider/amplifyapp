@@ -1,0 +1,1 @@
+# AWS Practice - Amplify App Frontend
